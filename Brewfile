@@ -23,6 +23,7 @@ brew "tldr"
 brew "neovim"
 brew "asciinema"
 brew "docker"
+brew "chafa"
 
 cask "showyedge"
 cask "google-chrome"
