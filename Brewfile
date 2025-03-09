@@ -58,7 +58,7 @@ cask "raycast"
 cask "visual-studio-code"
 cask "hammerspoon"
 cask "neovide"
-cask "emacs-mac", args: { "with-no-title-bars": true }
+cask "emacs", args: { "with-natural-title-bar": true, "with-no-title-bars": true }
 cask "slack"
 cask "vlc"
 cask "karabiner-elements"
