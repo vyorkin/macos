@@ -1,5 +1,3 @@
-tap "homebrew/cask"
-
 brew "mas"
 
 brew "tree"
@@ -60,7 +58,7 @@ cask "raycast"
 cask "visual-studio-code"
 cask "hammerspoon"
 cask "neovide"
-cask "emacs-mac", args: ["--with-natural-title-bar", "--with-no-title-bars"]
+cask "emacs-mac", args: { "with-no-title-bars": true }
 cask "slack"
 cask "vlc"
 cask "karabiner-elements"
