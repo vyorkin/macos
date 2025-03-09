@@ -57,9 +57,9 @@ cask "font-fira-mono-nerd-font"
 cask "font-jetbrains-mono-nerd-font"
 cask "font-3270-nerd-font"
 cask "font-0xproto-nerd-font"
-cask "font-agave-nerd-font
-cask "font-anonymice-nerd-font
-cask "font-aurulent-sans-mono-nerd-font
+cask "font-agave-nerd-font"
+cask "font-anonymice-nerd-font"
+cask "font-aurulent-sans-mono-nerd-font"
 cast "font-bigblue-terminal-nerd-font"
 cast "font-bitstream-vera-sans-mono-nerd-font"
 cast "font-blex-mono-nerd-font"
