@@ -29,6 +29,13 @@ brew "asciinema"
 brew "docker"
 brew "chafa"
 
+brew "readline"
+brew "secp256k1"
+brew "ccache"
+brew "pkgconfig"
+brew "cmake"
+brew "libsodium"
+
 cask "showyedge"
 cask "google-chrome"
 cask "firefox"
