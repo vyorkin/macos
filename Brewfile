@@ -73,6 +73,7 @@ cask "notion-calendar"
 cask "smlnj"
 cask "zed"
 cask "bruno"
+cask "rainfrog"
 
 cask "font-fira-code-nerd-font"
 cask "font-fira-mono-nerd-font"
