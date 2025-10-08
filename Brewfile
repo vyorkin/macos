@@ -36,9 +36,12 @@ brew "bottom"
 brew "bandwhich"
 brew "hexyl"
 brew "diskus"
+brew "dua-cli"
 
 brew "zathura"
 brew "zathura-pdf-poppler"
+
+# brew "slither-analyzer"
 
 brew "readline"
 brew "secp256k1"
