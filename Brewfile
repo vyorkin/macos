@@ -75,8 +75,7 @@ cask "smlnj"
 cask "bruno"
 cask "rainfrog"
 
-tap "railwaycat/emacsmacport"
-cask "emacs", args: ["--with-modules"]
+cask "jimeh/emacs-builds/emacs-app"
 cask "zed"
 cask "neovide"
 
