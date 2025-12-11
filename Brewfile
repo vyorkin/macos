@@ -1,5 +1,3 @@
-tap "homebrew-zathura/zathura"
-
 brew "mas"
 
 brew "tree"
@@ -37,8 +35,8 @@ brew "hexyl"
 brew "diskus"
 brew "dua-cli"
 
-brew "zathura"
-brew "zathura-pdf-poppler"
+# brew "zathura"
+# brew "zathura-pdf-poppler"
 
 # brew "slither-analyzer"
 
@@ -112,11 +110,11 @@ cask "font-intone-mono-nerd-font"
 cask "font-lekton-nerd-font"
 cask "font-liberation-nerd-font"
 cask "font-lilex-nerd-font"
-cask "font-monaspace-nerd-font"
+cask "font-monaspice-nerd-font"
 cask "font-monofur-nerd-font"
 cask "font-mononoki-nerd-font"
 cask "font-noto-nerd-font"
-cask "font-open-dyslexic-nerd-font"
+cask "font-opendyslexic-nerd-font"
 cask "font-overpass-nerd-font"
 cask "font-proggy-clean-tt-nerd-font"
 cask "font-recursive-mono-nerd-font"
