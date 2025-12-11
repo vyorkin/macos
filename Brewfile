@@ -1,4 +1,3 @@
-tap "homebrew/cask"
 tap "homebrew-zathura/zathura"
 
 brew "mas"
