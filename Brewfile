@@ -51,6 +51,8 @@ brew "cmake"
 brew "libsodium"
 brew "sourcegraph/src-cli/src-cli"
 
+brew "graphviz"
+
 cask "showyedge"
 cask "google-chrome"
 cask "firefox"
@@ -79,6 +81,7 @@ cask "jimeh/emacs-builds/emacs-app"
 cask "zed"
 cask "neovide"
 
+cask "font-juliamono"
 cask "font-fira-code-nerd-font"
 cask "font-fira-mono-nerd-font"
 cask "font-jetbrains-mono-nerd-font"
