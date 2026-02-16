@@ -35,6 +35,7 @@ brew "hexyl"
 brew "diskus"
 brew "dua-cli"
 brew "rainfrog"
+brew "doctl"
 
 tap "homebrew-zathura/zathura"
 brew "zathura"
@@ -78,6 +79,8 @@ cask "bruno"
 # cask "jimeh/emacs-builds/emacs-app"
 cask "zed"
 cask "neovide-app"
+
+cask "claude-code"
 
 cask "font-juliamono"
 cask "font-fira-code-nerd-font"
