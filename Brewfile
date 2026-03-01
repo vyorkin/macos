@@ -73,7 +73,6 @@ cask "slack"
 cask "vlc"
 cask "karabiner-elements"
 cask "notion-calendar"
-cask "smlnj"
 cask "bruno"
 
 # cask "jimeh/emacs-builds/emacs-app"
