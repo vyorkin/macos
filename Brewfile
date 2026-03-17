@@ -36,6 +36,14 @@ brew "diskus"
 brew "dua-cli"
 brew "rainfrog"
 brew "doctl"
+brew "cloc"
+
+brew "llmfit"
+brew "arimxyer/tap/models"
+brew "gromgit/brewtils/taproom"
+
+brew "btop"
+brew "mactop"
 
 tap "homebrew-zathura/zathura"
 brew "zathura"
