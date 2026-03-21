@@ -27,6 +27,7 @@ brew "oh-my-posh"
 brew "doctl"
 brew "rainfrog"
 brew "worktrunk"
+brew "zoxide"
 
 # --- Editors ---
 brew "neovim"
