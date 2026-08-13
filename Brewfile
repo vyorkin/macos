@@ -1,6 +1,6 @@
 # Taps
 tap "homebrew-zathura/zathura", trusted: true
-tap "arimxyer/tap", trusted: true
+tap "reyamira/tap", trusted: true
 tap "armgabrielyan/tap", trusted: true
 tap "gromgit/brewtils", trusted: true
 tap "sourcegraph/src-cli", trusted: true
@@ -95,14 +95,14 @@ brew "cmake"
 brew "libsodium"
 brew "poppler"
 brew "pillow"
-brew "libpq"
+brew "libpq", link: true
 brew "icu4c@76"
 brew "coreutils"
 brew "tree-sitter"
 
 # --- AI/ML ---
 brew "llmfit"
-brew "arimxyer/tap/models"
+brew "reyamira/tap/models"
 
 # --- Cask Apps ---
 cask "google-chrome"
