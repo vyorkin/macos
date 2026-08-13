@@ -24,6 +24,6 @@ bash setup.sh
 
 ## Notes
 
-- The Brewfile includes third-party taps (`homebrew-zathura/zathura`, `arimxyer/tap`, `gromgit/brewtils`, `sourcegraph/src-cli`)
+- The Brewfile includes third-party taps (`homebrew-zathura/zathura`, `arimxyer/tap`, `armgabrielyan/tap`, `gromgit/brewtils`, `sourcegraph/src-cli`), all marked `trusted: true` so `brew bundle install` doesn't stall on Homebrew's tap-trust gate
 - Some entries are commented out (emacs-builds, slither-analyzer) — these are intentionally disabled
-- `google-chrome` appears twice in the Brewfile (duplicate cask entry)
+- The Brewfile is kept in sync with `brew bundle dump` (formulae/casks/mas only — VS Code extensions and go/cargo/npm packages are intentionally excluded, as this repo doesn't track those)
