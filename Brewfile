@@ -4,6 +4,7 @@ tap "reyamira/tap", trusted: true
 tap "armgabrielyan/tap", trusted: true
 tap "gromgit/brewtils", trusted: true
 tap "sourcegraph/src-cli", trusted: true
+tap "nikitabobko/tap", trusted: true
 
 # --- CLI Utilities ---
 brew "mas"
