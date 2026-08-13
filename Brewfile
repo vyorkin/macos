@@ -139,16 +139,6 @@ cask "neovide-app"
 cask "emacs-app"
 # cask "jimeh/emacs-builds/emacs-app"
 
-# --- Mac App Store ---
-mas "Dynamic wallpaper", id: 1582358382
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
-mas "Numbers", id: 409203825
-mas "Outline", id: 1356178125
-mas "Pages", id: 409201541
-mas "Perplexity", id: 6714467650
-mas "Xcode", id: 497799835
-
 # --- Fonts ---
 cask "font-juliamono"
 cask "font-fira-code-nerd-font"
